@@ -1,0 +1,9 @@
+{
+	"name": "myalerttest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6d177918-463e-45a3-914a-eda3187aa219",
+		"tenantId": "0c3ce8e9-8968-47e3-8afb-efb4ce9d2043"
+	}
+}
